@@ -1,0 +1,8 @@
+[INFO]2021/04/09 16:25:01 logger.go:36: raw claim is ok
+[INFO]2021/04/09 16:25:01 logger.go:36: proof struct is ok
+[INFO]2021/04/09 16:25:01 logger.go:36: proof claim struct is ok
+[INFO]2021/04/09 16:25:01 logger.go:36: DBDID claim struct to db is ok
+[INFO]2021/05/04 10:34:47 logger.go:34: claim content is ok
+[INFO]2021/05/04 10:36:05 logger.go:34: proof struct is ok
+[INFO]2021/05/04 10:36:05 logger.go:34: proof claim struct is ok
+[INFO]2021/05/04 10:36:05 logger.go:34: DBDID claim struct to db is ok

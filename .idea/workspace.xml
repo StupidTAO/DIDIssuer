@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e55b3385-f45a-4b9b-8b83-24a8400627c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1qK3zL1mr296r1ecOHwzrdPl8RL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestCredentialSubjectUnmarshal in DIDIssuer/model (2)">
+    <configuration name="TestCredentialSubjectMarshal in DIDIssuer/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DIDIssuer" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DIDIssuer/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCredentialSubjectMarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCredentialSubjectUnmarshal in DIDIssuer/model (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DIDIssuer" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DIDIssuer/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCredentialSubjectUnmarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCredentialSubjectUnmarshal in DIDIssuer/model (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DIDIssuer" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DIDIssuer/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCredentialSubjectUnmarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCredentialSubjectUnmarshal in DIDIssuer/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DIDIssuer" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DIDIssuer/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCredentialSubjectUnmarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestVerifyClaimContent in DIDIssuer/router" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="DIDIssuer" />
+      <working_directory value="$PROJECT_DIR$/router" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="DIDIssuer/router" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestVerifyClaimContent\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestCredentialSubjectUnmarshal in DIDIssuer/model (2)" />
+        <item itemvalue="Go Test.TestCredentialSubjectUnmarshal in DIDIssuer/model (1)" />
+        <item itemvalue="Go Test.TestCredentialSubjectUnmarshal in DIDIssuer/model" />
+        <item itemvalue="Go Test.TestCredentialSubjectMarshal in DIDIssuer/model" />
+        <item itemvalue="Go Test.TestVerifyClaimContent in DIDIssuer/router" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616842621617">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="581" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1616842621617" />
+    <state width="708" height="640" key="DebuggerActiveHint" timestamp="1617956524958">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="708" height="640" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1617956524958" />
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom" timestamp="1620185649824">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649824" />
+    <state width="1750" height="386" key="GridCell.Tab.0.center" timestamp="1620185649823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649823" />
+    <state width="1750" height="386" key="GridCell.Tab.0.left" timestamp="1620185649822">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649822" />
+    <state width="1750" height="386" key="GridCell.Tab.0.right" timestamp="1620185649823">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649823" />
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom" timestamp="1620185649827">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649827" />
+    <state width="1750" height="386" key="GridCell.Tab.1.center" timestamp="1620185649826">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649826" />
+    <state width="1750" height="386" key="GridCell.Tab.1.left" timestamp="1620185649826">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649826" />
+    <state width="1750" height="386" key="GridCell.Tab.1.right" timestamp="1620185649827">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1620185649827" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1620094694208">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1620094694208" />
+    <state x="598" y="270" width="596" height="580" key="find.popup" timestamp="1620476703965">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="270" width="596" height="580" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1620476703965" />
+    <state x="722" y="325" key="refactoring.ChangeSignatureDialog" timestamp="1616842267942">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="722" y="325" key="refactoring.ChangeSignatureDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1616842267942" />
+    <state x="626" y="473" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617956611715">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="473" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1617956611715" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/utils/sign_verify_test.go</url>
+          <line>131</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
